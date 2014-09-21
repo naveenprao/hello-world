@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First repository
+First repository ! Finished !
